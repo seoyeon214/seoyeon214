@@ -2,19 +2,19 @@
 
 <div align="center">
 
-<h2><b>🌱 Status 🌱</b></h2>
+<h2 align="center"><b>🌱 Status 🌱</b></h2>
 ✏️ I am a student majoring in AI Media Content.</br>
-💻 Currently participating in a project.</br>
-🤖 Interested in AI-driven media and content creation.
+🤖 Interested in AI-driven media and content creation.</br>
+💻 Currently participating in a project.
 </br>
 </br>
 
-<h2><b>🛠️ Tech Stack (Learning..) 🛠️</b></h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<h2 align="center"><b>🛠️ Learning.. 🛠️</b></h2>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </br>
 </br>
 
-<h2><b>📬 Contact 📬</b></h2>
+<h2 align="center"><b>📬 Contact 📬</b></h2>
 <a href="mailto:seoyeonheo01066@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seoyeonheo01066@gmail.com"/></a>
 
 </div>
