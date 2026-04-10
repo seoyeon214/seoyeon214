@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=timeGradient&text=Hi%20there,%20I'm%20Seoyeon%20👋&section=header&reversal=false&fontColor=FFFFFF&strokeWidth=1&stroke=8a8a8a&fontSize=40&fontAlignY=39)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&color=timeGradient&text=Hi%20there,%20I'm%20Seoyeon%20👋&section=header&reversal=false&fontColor=FFFFFF&strokeWidth=1&stroke=8a8a8a&fontSize=40)
 <div align="center">
-
 <h2 align="center"><b>🌱 Status 🌱</b></h2>
 ✏️ I am a student majoring in AI Media Content.</br>
 🤖 Interested in AI-driven media and content creation.</br>
